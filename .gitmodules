@@ -1,0 +1,12 @@
+[submodule "05 Integration Hub"]
+	path = 05 Integration Hub
+	url = https://github.com/backoffice-pptx/poolpeople-integration-hub.git
+[submodule "21 Bookkeeping Audit"]
+	path = 21 Bookkeeping Audit
+	url = https://github.com/backoffice-pptx/poolpeople-bookkeeping-audit.git
+[submodule "40 Data Platform Shared Library"]
+	path = 40 Data Platform Shared Library
+	url = https://github.com/backoffice-pptx/poolpeople-data-platform-shared-library.git
+[submodule "50 QBO Import Hub Standalone"]
+	path = 50 QBO Import Hub Standalone
+	url = https://github.com/backoffice-pptx/poolpeople-qbo-import-hub.git
