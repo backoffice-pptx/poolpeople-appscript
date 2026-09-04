@@ -10,3 +10,6 @@
 [submodule "50 QBO Import Hub Standalone"]
 	path = 50 QBO Import Hub Standalone
 	url = https://github.com/backoffice-pptx/poolpeople-qbo-import-hub.git
+[submodule "Archives/50 QBO Import Hub Pre-Standalone"]
+	path = Archives/50 QBO Import Hub Pre-Standalone
+	url = https://github.com/backoffice-pptx/poolpeople-qbo-import-hub-pre-standalone.git
